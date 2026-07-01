@@ -1,0 +1,88 @@
+{
+  "menuArr" : [ {
+    "childArr" : [ ],
+    "hoverText" : "",
+    "menuId" : "1458",
+    "name" : "New Customer",
+    "navigatesTo" : "/PayBefore",
+    "showRenameTextBox" : false
+  }, {
+    "childArr" : [ ],
+    "hoverText" : "Search Customer",
+    "menuId" : "1459",
+    "name" : "Search Customer",
+    "navigatesTo" : "/CustomerLookup",
+    "showRenameTextBox" : false
+  }, {
+    "childArr" : [ {
+      "childArr" : [ {
+        "childArr" : [ ],
+        "hoverText" : "",
+        "menuId" : "1462",
+        "name" : "Transaction Log",
+        "navigatesTo" : "/transactionLog",
+        "showRenameTextBox" : false
+      } ],
+      "hoverText" : "",
+      "menuId" : "1461",
+      "name" : "Logs",
+      "navigatesTo" : "#",
+      "showRenameTextBox" : false
+    }, {
+      "childArr" : [ ],
+      "hoverText" : "",
+      "menuId" : "1463",
+      "name" : "Template Management",
+      "navigatesTo" : "/CISTemplate",
+      "showRenameTextBox" : false
+    }, {
+      "childArr" : [ ],
+      "hoverText" : "",
+      "menuId" : "1464",
+      "name" : "Service Contracts",
+      "navigatesTo" : "/ContractManagement",
+      "showRenameTextBox" : false
+    }, {
+      "childArr" : [ ],
+      "hoverText" : "",
+      "menuId" : "1465",
+      "name" : "Store Transactions",
+      "navigatesTo" : "/storeTransactions",
+      "showRenameTextBox" : false
+    }, {
+      "childArr" : [ {
+        "childArr" : [ ],
+        "hoverText" : "",
+        "menuId" : "1467",
+        "name" : "Process Queue Management",
+        "navigatesTo" : "/Orders",
+        "showRenameTextBox" : false
+      } ],
+      "hoverText" : "",
+      "menuId" : "1466",
+      "name" : "Orders",
+      "navigatesTo" : "#",
+      "showRenameTextBox" : false
+    }, {
+      "childArr" : [ ],
+      "hoverText" : "",
+      "menuId" : "1468",
+      "name" : "Business Continuity Alerts",
+      "navigatesTo" : "/BulletinAlerts",
+      "showRenameTextBox" : false
+    } ],
+    "hoverText" : "",
+    "menuId" : "1460",
+    "name" : "Admin",
+    "navigatesTo" : "#",
+    "showRenameTextBox" : false
+  }, {
+    "childArr" : [ ],
+    "hoverText" : "",
+    "menuId" : "1469",
+    "name" : "Audit Trails",
+    "navigatesTo" : "/reports/a9d6826aa-f86e-7776-b7ab-1e27b3160bc6",
+    "showRenameTextBox" : false
+  } ],
+  "theme" : "de"
+}
